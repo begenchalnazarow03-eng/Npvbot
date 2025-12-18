@@ -6,8 +6,8 @@ import logging
 import re
 
 # Botuň sazlamalary
-BOT_TOKEN = '8435739893:AAHvO4oUjOlOvMqn90usYGnwZDQ2_z7d2cA'
-INITIAL_ADMIN_IDS = [7194433458]
+BOT_TOKEN ='8317531093:AAGkj5_gh7dNv9Lep1C6TGjb4gRAH0NcoWM'
+INITIAL_ADMIN_IDS =[6934292008]
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
